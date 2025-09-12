@@ -9,8 +9,8 @@ while (d>0) :
     sum=sum+e
     d=d//10
 if (sum==a) :
-    print("Entered number is palindrome")
+    print("Entered number is armstrong")
 else :
-    print("Entered number is not palindrome")   
+    print("Entered number is not armstrong")   
 
 
